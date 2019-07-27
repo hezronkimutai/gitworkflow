@@ -1,0 +1,16 @@
+.body{
+    width: 100%;
+    height: auto;
+}
+.header{
+height: 100px;
+background-color: green;
+}
+.body{
+    height: 100px;
+    background-color:black;
+}
+.footer{
+    height: 100px;
+    background-color: blue;
+}
